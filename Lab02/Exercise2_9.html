@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <title>A Simple Form</title>
+    </head>
+    <body>
+        <h1 style="color: darkblue;">Hanoi University of Science and Technology</h1>
+        <h2>Please fill in this form to complete the survey!</h2>
+        <form action="Exercise2_9.php" method="POST">
+            Name: <input type="text" size="20" name="name">
+            <br>
+
+            Student ID: <input type="text" size="15" maxlength="8" name="stuID">
+            <br>
+
+            Student of year:
+            <input type="radio" name="year" value="K62">K62
+            <input type="radio" name="year" value="K63">K63
+            <input type="radio" name="year" value="K64">K64
+            <input type="radio" name="year" value="K65">K65
+            <br><br>
+
+            Student of school:
+            <br>
+            <select name="school">
+                <option selected>School of Information Technology</option>
+                <option>School of Applied Mathematics and Informatics</option>
+                <option>School of Mechanical Engineering</option>
+                <option>School of Electronics and Telecommunications</option>
+                <option>School of Electrical Engineering</option>
+                <option>School of Chemical Engineering</option>
+                <option>School of Economics and Management</option>
+            </select>
+            <br></br>
+
+            What are you interested in this activity?
+            <br>
+            <input type="checkbox" name="skill" value="Comunication" checked> Comunication
+            <input type="checkbox" name="skill" value="Soft-skill"> Soft-skill
+            <input type="checkbox" name="skill" value="Play Game"> Play Game
+            <input type="checkbox" name="skill" value="Experience"> Experience
+            <br>
+
+            <textarea rows="4" cols="50" name="Comments">Leave your comment about this activity in here
+            </textarea>
+            <br>
+
+            Password: <input type="password" size="16" maxlength="20" name="pass">
+            <br>
+            <input type="submit" value="Click To Submit">
+            <input type="reset" value="Erase and Restart">
+        </form>
+    </body>
+</html>
