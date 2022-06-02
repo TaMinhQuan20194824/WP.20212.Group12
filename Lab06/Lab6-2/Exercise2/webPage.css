@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+body {
+    background-color: white;
+    color: black;
+    
+}
+#header {
+    background-color: red;
+    color: white;
+    padding: 20px
+}
+#main {
+    float: left;
+    height: 400px;
+    text-align: center;
+}
+#sidebar {
+    float: right;
+    height: 400px;
+    width: 25%;
+    background-color:yellow;
+    color: black;
+}
+#footer {
+    clear: both;
+    background-color:blue;
+    color: white;
+    padding: 20px
+}

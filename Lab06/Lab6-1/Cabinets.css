@@ -1,0 +1,17 @@
+H1 {
+    text-align: center
+}
+P {
+    margin: 0.25in;
+    border: 0.25in solid black;
+    padding: 0.25in;
+    background: URL(images/paper.webp)
+}
+BODY {
+    background: URL(images/bricks.webp)
+}
+.banner {
+    background: url(images/wood-board.jfif) repeat-x;
+    font-size: 50pt;
+    font-family: Arial Bold;
+}
