@@ -24,8 +24,13 @@ Ta Minh Quan: Lab4-2
 Vu Hoang Nam: Examples
 Ta Minh Quan: Exercises
 ```
-## Lab04
+## Lab06
 ```
 Vu Hoang Nam: Lab6-1
 Ta Minh Quan: Lab6-2
+```
+## Lab08
+```
+Vu Hoang Nam: Exercise 2
+Ta Minh Quan: Exercise 1
 ```
