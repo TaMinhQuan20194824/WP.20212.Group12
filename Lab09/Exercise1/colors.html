@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script type="text/javascript">
+            function redColor(){
+                document.getElementById('paragraph').style.color = "red";
+            }
+            function greenColor(){
+                document.getElementById('paragraph').style.color = "green";
+            }
+            function blueColor(){
+                document.getElementById('paragraph').style.color = "blue";
+            }
+            function blackColor(){
+                document.getElementById('paragraph').style.color = "black";
+            }
+        </script>
+    </head>
+    <body>
+        <a href="" onmouseover="redColor()" onmouseout="blackColor()">RED</a>
+        <br>
+        <a href="" onmouseover="greenColor()" onmouseout="blackColor()">GREEN</a>
+        <br>
+        <a href="" onmouseover="blueColor()" onmouseout="blackColor()">BLUE</a>
+        <br>
+        <p id="paragraph">
+            This is some sample text.
+        </p>
+    </body>
+</html>
