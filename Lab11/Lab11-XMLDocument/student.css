@@ -1,0 +1,9 @@
+student{display: block; margin-top: 15px; color: blue;}
+name{font-size: 28pt;color:black}
+id{display: block;font-size: 18pt;color:red}
+address{display: block; margin-left:40px;color:green}
+dob{display: block;font-size: 18pt;color:brown}
+city{display: block;font-size: 18pt;color:coral}
+email{display: block;font-size: 18pt;color:blue}
+phone{display: block;font-size: 18pt;color:cyan}
+school{display: block;font-size: 18pt;color:gold}

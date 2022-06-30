@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href= "student.css"?>
+<!DOCTYPE student SYSTEM "Student.dtd">
+<student>
+    <name>Name: Ta Minh Quan</name>
+    <id>Student ID: 20194824</id>
+    <dob> DOB: 06 / 06 / 2001 </dob>
+    <city>City: Hanoi </city>
+    <email>Email: quan.tm194824@sis.hust.edu.vn </email>
+    <phone>Phone: 0945101911 </phone>
+    <school>School: Hanoi University of Science and Technology </school>
+</student>
