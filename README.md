@@ -36,6 +36,15 @@ Ta Minh Quan: Exercise 1
 ```
 ## Lab09
 ```
-Vu Hoang Nam: Example, exercise 3,4
+Vu Hoang Nam: Examples, exercise 3,4
 Ta Minh Quan: Exercise 1,2
+```
+## Lab10
+```
+Vu Hoang Nam
+```
+## Lab11
+```
+Ta Minh Quan: Exercise 1,2,3
+Vu Hoang Nam: Examples
 ```
