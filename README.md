@@ -48,3 +48,8 @@ Vu Hoang Nam
 Ta Minh Quan: Exercise 1,2,3
 Vu Hoang Nam: Examples
 ```
+## Lab12
+```
+Ta Minh Quan: Controllers
+Vu Hoang Nam: Models, views
+```
