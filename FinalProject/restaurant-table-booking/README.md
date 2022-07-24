@@ -1,12 +1,6 @@
 # Restaurant Table Reservation System
 
 <h3>Modules</h3>
-
-[Server] Login, Logout, Change admin accounts info
-[Server] Manage table booking information
-[Server] CRUD functionality for tables
-[Server] CRUD functionality for newsletters
-
 <h5>User point of view</h5>
 <ul>
   <li>Table Booking</li>
